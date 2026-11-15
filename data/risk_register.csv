@@ -1,0 +1,12 @@
+id,threat,likelihood,impact
+R1,Phishing,5,4
+R2,Ransomware,4,5
+R3,Weak passwords / no MFA,5,4
+R4,Unpatched software,4,4
+R5,Insider threat,3,4
+R6,Third-party risk,3,4
+R7,No tested backups,3,5
+R8,Lost / stolen device,3,3
+R9,Insecure Wi-Fi / remote access,3,3
+R10,Cloud misconfiguration,3,4
+R11,Website / DoS attack,2,3

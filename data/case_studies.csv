@@ -1,0 +1,16 @@
+case,threat,likelihood_before,impact_before,likelihood_after,impact_after
+A: Retail shop (12 staff),Phishing,4,3,2,3
+A: Retail shop (12 staff),Ransomware,3,4,2,4
+A: Retail shop (12 staff),Weak passwords,5,3,2,3
+A: Retail shop (12 staff),No backups,4,4,1,4
+A: Retail shop (12 staff),Unpatched POS,4,4,2,4
+B: Accounting firm (40 staff),Phishing / invoice fraud,5,5,3,5
+B: Accounting firm (40 staff),Insider data leakage,3,5,2,5
+B: Accounting firm (40 staff),Weak MFA,4,5,1,5
+B: Accounting firm (40 staff),Third-party risk,3,4,2,4
+B: Accounting firm (40 staff),Ransomware,3,5,2,5
+C: Manufacturer (25 staff),Legacy / unpatched systems,4,5,3,5
+C: Manufacturer (25 staff),Ransomware,4,5,2,5
+C: Manufacturer (25 staff),Phishing,4,4,2,4
+C: Manufacturer (25 staff),Insecure remote access,3,4,2,4
+C: Manufacturer (25 staff),No tested backups,3,5,1,5
