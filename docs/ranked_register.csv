@@ -1,0 +1,12 @@
+id,threat,likelihood,impact,score,band,action
+R1,Phishing,5,4,20,Critical,Fix immediately
+R2,Ransomware,4,5,20,Critical,Fix immediately
+R3,Weak passwords / no MFA,5,4,20,Critical,Fix immediately
+R4,Unpatched software,4,4,16,High,Fix within 30 days
+R7,No tested backups,3,5,15,High,Fix within 30 days
+R10,Cloud misconfiguration,3,4,12,High,Fix within 30 days
+R5,Insider threat,3,4,12,High,Fix within 30 days
+R6,Third-party risk,3,4,12,High,Fix within 30 days
+R8,Lost / stolen device,3,3,9,Medium,Plan within the quarter
+R9,Insecure Wi-Fi / remote access,3,3,9,Medium,Plan within the quarter
+R11,Website / DoS attack,2,3,6,Medium,Plan within the quarter
